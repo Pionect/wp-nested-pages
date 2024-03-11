@@ -13,7 +13,7 @@
 	"type": "wordpress-plugin",
 	"require": {
 		"php": ">=5.4.0",
-		"composer/installers": "v1.0.6"
+		"composer/installers": "v1.12.0"
 	},
 	"autoload": {
 		"psr-4" : {
